@@ -1,3 +1,10 @@
+# Homework 1: Submission
+
+Logical relationship between customer_purchases and market_date_info
+
+![homework-1-logical-diagram.png](./images/homework-1-logical-diagram.png)
+
+
 # Homework 1: farmersmarket.db
 
 - Due on Thursday, September 12 at 11:59pm
